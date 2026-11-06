@@ -97,6 +97,22 @@
         }
       }
     },
+    "Alef maqsura": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الألف المقصورة"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alef maqsura"
+          }
+        }
+      }
+    },
     "Allow Harf in Accessibility settings": {
       "localizations": {
         "ar": {
@@ -321,18 +337,18 @@
         }
       }
     },
-    "Broken Arabic copied from PDFs": {
+    "Broken Arabic from PDFs": {
       "localizations": {
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "نص عربي تالف منسوخ من PDF"
+            "value": "نص عربي تالف من PDF"
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Broken Arabic copied from PDFs"
+            "value": "Broken Arabic from PDFs"
           }
         }
       }
@@ -689,18 +705,18 @@
         }
       }
     },
-    "Franco-Arabic to Arabic script": {
+    "Franco-Arabic to Arabic": {
       "localizations": {
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "من الفرانكو إلى الحرف العربي"
+            "value": "من الفرانكو إلى العربية"
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Franco-Arabic to Arabic script"
+            "value": "Franco-Arabic to Arabic"
           }
         }
       }
@@ -1857,6 +1873,22 @@
         }
       }
     },
+    "Ta marbuta": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "التاء المربوطة"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ta marbuta"
+          }
+        }
+      }
+    },
     "Tashkeel": {
       "localizations": {
         "ar": {
@@ -1873,7 +1905,7 @@
         }
       }
     },
-    "Tashkeel, letters and digits": {
+    "Tashkeel, letters, digits": {
       "localizations": {
         "ar": {
           "stringUnit": {
@@ -1884,7 +1916,7 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tashkeel, letters and digits"
+            "value": "Tashkeel, letters, digits"
           }
         }
       }
@@ -1949,22 +1981,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Text is processed in memory on this Mac."
-          }
-        }
-      }
-    },
-    "Text typed on the wrong layout": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "نص كُتب بلغة لوحة مفاتيح خاطئة"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Text typed on the wrong layout"
           }
         }
       }
@@ -2257,6 +2273,22 @@
         }
       }
     },
+    "Wrong keyboard layout": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لغة لوحة مفاتيح خاطئة"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wrong keyboard layout"
+          }
+        }
+      }
+    },
     "Wrong layout reads as real words": {
       "localizations": {
         "ar": {
@@ -2301,38 +2333,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "macOS 26 Apple Intelligence, with fallback"
-          }
-        }
-      }
-    },
-    "ة to ه": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ة إلى ه"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ة to ه"
-          }
-        }
-      }
-    },
-    "ى to ي": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ى إلى ي"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ى to ي"
           }
         }
       }

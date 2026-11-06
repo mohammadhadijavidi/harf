@@ -150,8 +150,8 @@ struct OptionsBar: View {
         ToggleChip(title: loc("Tashkeel"), isOn: binding(\.cleanup.removeTashkeel))
         ToggleChip(title: loc("Tatweel"), isOn: binding(\.cleanup.removeTatweel))
         ToggleChip(title: loc("Alef forms"), isOn: binding(\.cleanup.normalizeAlef))
-        ToggleChip(title: loc("ى to ي"), isOn: binding(\.cleanup.normalizeAlefMaqsura))
-        ToggleChip(title: loc("ة to ه"), isOn: binding(\.cleanup.normalizeTaMarbuta))
+        ToggleChip(title: loc("Alef maqsura"), isOn: binding(\.cleanup.normalizeAlefMaqsura))
+        ToggleChip(title: loc("Ta marbuta"), isOn: binding(\.cleanup.normalizeTaMarbuta))
         Segmented(items: [(DigitStyle.keep, loc("Digits as is")), (.western, "123"), (.arabicIndic, "١٢٣"), (.persian, "۱۲۳")],
                   selection: binding(\.cleanup.digits), label: loc("Digits"))
     }
@@ -239,11 +239,7 @@ struct InputCard: View {
                 .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
             }
         }
-        .dropDestination(for: String.self) { items, _ in
-            guard let first = items.first else { return false }
-            model.setInput(first)
-            return true
-        }
+        .modifier(TextDrop(enabled: !rendering) { model.setInput($0) })
     }
 }
 
@@ -396,6 +392,7 @@ struct AlternativesCard: View {
                                         .foregroundStyle(selected ? t.accentText : t.text)
                                         .padding(.horizontal, 9)
                                         .frame(height: 26)
+                                        .fixedSize()
                                         .background(Capsule(style: .continuous).fill(selected ? t.accent : t.cardRaised))
                                         .overlay(Capsule(style: .continuous).strokeBorder(selected ? .clear : t.hairline, lineWidth: 1))
                                 }
@@ -404,6 +401,7 @@ struct AlternativesCard: View {
                                 .accessibilityAddTraits(selected ? .isSelected : [])
                             }
                         }
+                        .fixedSize()
                         .padding(.horizontal, 8)
                         .padding(.vertical, 5)
                         .background(RoundedRectangle(cornerRadius: 10, style: .continuous).fill(t.window.opacity(t.isDark ? 0.6 : 0.5)))
@@ -501,6 +499,24 @@ struct FlowLayout: Layout {
             v.place(at: CGPoint(x: x, y: y), proposal: ProposedViewSize(s))
             x += s.width + spacing
             lineHeight = max(lineHeight, s.height)
+        }
+    }
+}
+
+/// Accepts dropped text in the app (skipped while rendering screenshots: ImageRenderer cannot draw it).
+private struct TextDrop: ViewModifier {
+    let enabled: Bool
+    let onDrop: (String) -> Void
+
+    func body(content: Content) -> some View {
+        if enabled {
+            content.dropDestination(for: String.self) { items, _ in
+                guard let first = items.first else { return false }
+                onDrop(first)
+                return true
+            }
+        } else {
+            content
         }
     }
 }

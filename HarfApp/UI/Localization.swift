@@ -71,10 +71,10 @@ extension HarfMode {
 
     var subtitleKey: String {
         switch self {
-        case .arabizi: return "Franco-Arabic to Arabic script"
-        case .layout: return "Text typed on the wrong layout"
-        case .pdfRepair: return "Broken Arabic copied from PDFs"
-        case .cleanup: return "Tashkeel, letters and digits"
+        case .arabizi: return "Franco-Arabic to Arabic"
+        case .layout: return "Wrong keyboard layout"
+        case .pdfRepair: return "Broken Arabic from PDFs"
+        case .cleanup: return "Tashkeel, letters, digits"
         }
     }
 

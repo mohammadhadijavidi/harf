@@ -99,10 +99,12 @@ private struct ModeRow: View {
                         .lineLimit(1)
                 }
                 Spacer(minLength: 4)
-                Text(verbatim: "⌘\(mode.shortcutDigit)")
-                    .font(.system(size: 10.5, weight: .medium, design: .rounded))
-                    .foregroundStyle(t.tertiary.opacity(hover || selected ? 1 : 0.0))
-                    .environment(\.layoutDirection, .leftToRight)
+                if hover || selected {
+                    Text(verbatim: "⌘\(mode.shortcutDigit)")
+                        .font(.system(size: 10.5, weight: .medium, design: .rounded))
+                        .foregroundStyle(t.tertiary)
+                        .environment(\.layoutDirection, .leftToRight)
+                }
             }
             .padding(.horizontal, 8)
             .padding(.vertical, 6)

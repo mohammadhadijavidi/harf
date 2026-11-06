@@ -3,7 +3,7 @@ import AppKit
 
 /// README hero: the real window render on a dark backdrop with the name and tagline.
 struct HeroComposition: View {
-    static let size = CGSize(width: 1600, height: 1120)
+    static let size = CGSize(width: 1600, height: 1090)
     let window: NSImage   // includes an 80 pt shadow margin
     let lang: String
 
@@ -46,7 +46,7 @@ struct HeroComposition: View {
                 .resizable()
                 .interpolation(.high)
                 .frame(width: 1400 * 0.97, height: 960 * 0.97)
-                .offset(y: 205)
+                .offset(y: 172)
         }
         .frame(width: Self.size.width, height: Self.size.height)
         .clipped()
@@ -70,7 +70,7 @@ struct LightComposition: View {
 
 /// "How it works" diagram, drawn in SwiftUI with the app's theme.
 struct HowItWorksDiagram: View {
-    static let size = CGSize(width: 1600, height: 900)
+    static let size = CGSize(width: 1600, height: 820)
     let loc: Localizer
 
     var body: some View {
@@ -112,7 +112,7 @@ struct HowItWorksDiagram: View {
             }
         }
         .padding(64)
-        .frame(width: Self.size.width, height: Self.size.height, alignment: .topLeading)
+        .frame(width: Self.size.width, height: Self.size.height, alignment: .leading)
         .background(
             ZStack {
                 t.window
@@ -173,7 +173,7 @@ struct HowItWorksDiagram: View {
 struct IconArtwork: View {
     /// (points, scale) for every macOS AppIcon slot.
     static let sizes: [(Int, Int)] = [(16, 1), (16, 2), (32, 1), (32, 2), (128, 1), (128, 2), (256, 1), (256, 2), (512, 1), (512, 2)]
-    static let defaultFont: String? = nil
+    static let defaultFont: String? = "Al Nile"
 
     var fontFamily: String? = IconArtwork.defaultFont
 
@@ -208,10 +208,10 @@ struct IconArtwork: View {
                         .rotationEffect(.degrees(45))
                 }
             }
-            .offset(x: -268, y: 40)
+            .offset(x: -215, y: 18)
 
             glyph
-                .offset(x: 26, y: -6)
+                .offset(x: 9, y: -144)
         }
         .frame(width: 1024, height: 1024)
     }
@@ -225,11 +225,4 @@ struct IconArtwork: View {
             .shadow(color: .black.opacity(0.35), radius: 10, y: 8)
     }
 
-    static func candidateFonts() -> [(family: String, available: Bool)] {
-        let wanted = ["Geeza Pro", "Baghdad", "DecoType Naskh", "Diwan Thuluth", "Diwan Kufi", "Al Nile", "Farah",
-                      "KufiStandardGK", "Mishafi", "Waseem", "Damascus", "Al Bayan", "Noto Naskh Arabic", "Noto Kufi Arabic",
-                      "Muna", "Nadeem", "Sana", "Al Tarikh", "Kufi Standard GK"]
-        let families = Set(NSFontManager.shared.availableFontFamilies)
-        return wanted.map { ($0, families.contains($0)) }
-    }
 }

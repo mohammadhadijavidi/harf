@@ -28,7 +28,7 @@ enum AssetRenderer {
                     save(window(mode: mode, lang: lang, scheme: scheme), "workbench-\(mode.rawValue)-\(suffix).png",
                          size: windowSize + 120)
                 }
-                save(menuBar(lang: lang, scheme: scheme), "menubar-\(suffix).png", size: CGSize(width: 320 + 120, height: 600))
+                save(menuBar(lang: lang, scheme: scheme), "menubar-\(suffix).png", size: CGSize(width: 320 + 120, height: 570))
             }
         }
 
@@ -46,7 +46,7 @@ enum AssetRenderer {
                  lang == "en" ? "how-it-works.png" : "how-it-works-ar.png", size: HowItWorksDiagram.size)
         }
 
-        // App icon at every macOS size, plus font candidates for review.
+        // App icon at every macOS size.
         let iconDir = dir.appendingPathComponent("AppIcon.appiconset")
         try? FileManager.default.createDirectory(at: iconDir, withIntermediateDirectories: true)
         for (points, scale) in IconArtwork.sizes {
@@ -55,13 +55,6 @@ enum AssetRenderer {
                  size: CGSize(width: 1024, height: 1024), scale: CGFloat(px) / 1024)
         }
         save(IconArtwork(), "icon.png", size: CGSize(width: 1024, height: 1024), scale: 0.5)
-        let candidates = IconArtwork.candidateFonts()
-        try? candidates.map { "\($0.family)\t\($0.available)" }.joined(separator: "\n")
-            .write(to: dir.appendingPathComponent("icon-fonts.txt"), atomically: true, encoding: .utf8)
-        for c in candidates where c.available {
-            save(IconArtwork(fontFamily: c.family), "icon-candidates/\(c.family.replacingOccurrences(of: " ", with: "_")).png",
-                 size: CGSize(width: 1024, height: 1024), scale: 0.5)
-        }
         return ok
     }
 
@@ -98,7 +91,7 @@ enum AssetRenderer {
             .overlay(RoundedRectangle(cornerRadius: 12, style: .continuous).strokeBorder(Color.primary.opacity(0.12), lineWidth: 1))
             .shadow(color: .black.opacity(0.3), radius: 24, y: 10)
             .padding(60)
-            .frame(width: 440, height: 600, alignment: .top)
+            .frame(width: 440, height: 570, alignment: .top)
             .environment(\.colorScheme, scheme)
     }
 
