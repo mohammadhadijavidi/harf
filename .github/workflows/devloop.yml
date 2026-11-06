@@ -1,0 +1,27 @@
+name: devloop
+on:
+  push:
+    branches: ['xfer-harf']
+permissions:
+  contents: write
+jobs:
+  loop:
+    runs-on: macos-26
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Toolchain
+        run: |
+          mkdir -p ci-out
+          { sw_vers; xcodebuild -version; swift --version; } > ci-out/toolchain.txt 2>&1 || true
+      - name: Dump layouts
+        run: swift scripts/dump-layouts.swift > ci-out/layouts.json 2> ci-out/layouts.err || true
+      - name: Publish outputs
+        if: always()
+        run: |
+          git config user.name "harf-devloop"
+          git config user.email "devloop@users.noreply.github.com"
+          git checkout -B xfer-harf-out
+          git add -f ci-out
+          git commit -m "devloop outputs" || true
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" xfer-harf-out
