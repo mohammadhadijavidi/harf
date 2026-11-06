@@ -217,11 +217,11 @@ struct BrandMark: View {
                                      startPoint: .top, endPoint: .bottom))
             RoundedRectangle(cornerRadius: size * 0.27, style: .continuous)
                 .strokeBorder(Color.white.opacity(0.1), lineWidth: 0.5)
-            Text("ح")
-                .font(.system(size: size * 0.62, weight: .bold))
+            Text(verbatim: "ح")
+                .font(.custom("Al Nile", size: size * 0.62))
                 .foregroundStyle(LinearGradient(colors: [Color(red: 0.98, green: 0.82, blue: 0.52), Color(red: 0.84, green: 0.58, blue: 0.20)],
                                                 startPoint: .top, endPoint: .bottom))
-                .offset(y: -size * 0.04)
+                .offset(x: size * 0.01, y: -size * 0.15)
         }
         .frame(width: size, height: size)
         .accessibilityHidden(true)
