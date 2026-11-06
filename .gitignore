@@ -1,0 +1,8 @@
+*.xcodeproj
+build/
+DerivedData/
+dist/
+ci-out/
+.DS_Store
+*.xcresult
+xcuserdata/

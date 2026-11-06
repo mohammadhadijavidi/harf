@@ -1,0 +1,145 @@
+# Harf Arabizi dictionary, part 4 (original, curated for Harf)
+# Everyday words: travel, food, work, places, common verbs.
+# Format:  spellings | Arabic candidates (preferred first) | dialects
+matar, mataar, ma6ar, ma6aar | مطار | C
+6ayyara, tayyara, 6ayara, tayara, 6ayyareh | طيارة | C
+funduq, fondo2, fondu2, fundu2, fendo2 | فندق | C
+safar, safr, sfar | سفر | C
+safart, sefert, safert | سافرت | C
+re7le, ri7la, re7la, rihla, re7leh | رحلة | C
+ba7r, bahr, ba7er, ba7ar | بحر | C
+shams, shames, chams | شمس | C
+2amar, amar, qamar, gamar | قمر | C
+matar, ma6ar | مطر | C
+bard, bared, bared | برد, بارد | C
+7ar, 7arr, harr | حر | C
+el jaw, eljaw, eljaww, el jo, eljo | الجو | C
+souq, soo2, sou2, su2, souk, sooq | سوق | C
+mall, mol | مول | C
+ma7al, ma7all, mahal | محل | C
+mostashfa, mustashfa, mostashfa | مستشفى | C
+doktor, duktur, daktor, dktor, doctor | دكتور | C
+mohandes, muhandis, mhandes | مهندس | C
+mo3allem, mu3allim, m3alem, m3allem | معلم | C
+modarres, mudarris, mdarres | مدرس | C
+ostaz, ustaz, ustath, ostad, 2ostaz, ustaaz | أستاذ, استاذ | C
+taleb, talib, 6aleb, 6alib | طالب | C
+6alba, talba, 6albeh | طالبة | C
+mowazzaf, muwazzaf, mwazzaf | موظف | C
+mudeer, modir, mudir, mdeer | مدير | C
+maktab, mktab, maktb | مكتب | C
+sharika, sherke, sherkeh, sharikah, shirka | شركة | C
+mashroo3, mashrou3, mashru3, mshro3 | مشروع | C
+ijtima3, egtema3, ejtima3, 2ijtima3 | اجتماع | C
+dawam, dawaam, eldawam, eddawam | دوام, الدوام | G L
+ijaza, agaza, ejaze, ijazeh, egaza | إجازة, اجازة | C
+3o6la, 3utla, 3otle, 3otleh | عطلة | C
+ratib, ra6eb, rateb, raateb | راتب | C
+7esab, 7isab, hesab, 7saab | حساب | C
+bank, bnk | بنك | C
+ma6bakh, mat'bakh, mataba5, ma6ba5, mutbakh | مطبخ | C
+7ammam, 7amam, hammam | حمام | C
+ghorfa, 3'orfa, ghurfe, ghorfeh | غرفة | C
+oda, 2oda, ouda, 2ode, ode | أوضة, اوضة | L E
+bab, baab | باب | C
+shebbak, shubbak, shebak, shibbak | شباك | C
+kursi, korsi, kersi, kirsi | كرسي | C
+6awle, tawle, 6awla, tawla, 6awleh | طاولة | C
+sarir, sareer, srir | سرير | C
+kitab, ktab, ketab, ktaab | كتاب | C
+2alam, alam, qalam, galam | قلم | C
+wara2, wara', waraq, warag | ورق | C
+risale, risala, resale, resaleh, risaleh | رسالة | C
+sura, soura, soora, sora, soura | صورة | C
+video, vidyo, fidyo | فيديو | C
+khabar, 5abar, 5abr | خبر | C
+akhbar, a5bar, 2a5bar | أخبار, اخبار | C
+akhbarak, a5barak, 2a5barak, a5bark | أخبارك, اخبارك | C
+a5barek, akhbarik, a5barik | أخبارك | C
+fakhr, fa5r | فخر | C
+dajaj, djaj, jaj, d'jaj, dejaj | دجاج, جاج | C
+ferakh, fera5, frakh | فراخ | E
+la7me, la7m, la7meh, lahm | لحمة, لحم | C
+rez, roz, ruz, ruzz, rizz | رز | C
+samak, samaka, sama2 | سمك | C
+khobz, 5obz, khubz, 5ubz | خبز | C
+3eish, 3aish, 3ish | عيش | E
+ja3an, jo3an | جوعان | C
+3a6shan, 3atshan, 3atshaan, 3a6shaan | عطشان | C
+na3san, n3san, na3saan | نعسان | C
+mesta3jel, musta3jil, msta3jel | مستعجل | C
+besor3a, bsor3a, bisur3a, be sor3a, b sor3a | بسرعة | C
+shway shway, shwai shwai, shwe shwe | شوي شوي | C
+2areeb, 2arib, qarib, gareeb, areeb | قريب | C
+b3eed, ba3id, ba3eed, b3id | بعيد | C
+fo2, foo2, fou2, foq, fog | فوق | C
+ta7t, ta7et, ta7at | تحت | C
+jowwa, juwwa, gowwa, guwwa, jowa | جوا | C
+barra, bara, berra | برا | C
+janb, jamb, ganb, gamb, jenb | جنب | C
+2oddam, oddam, gddam, 2uddam, quddam | قدام | C
+wara, warra, wara2 | ورا | C
+yamin, yameen, ymeen | يمين | C
+shmal, shimal, shemal | شمال | C
+yasar, yassar, ysar | يسار | C
+lo sama7t, law sama7t, lw sm7t, lau sama7t, law samaht | لو سمحت | C
+men fadlak, min fadlak, mn fadlak, men fa9lak, min fadlik | من فضلك | C
+please, plz, pls, plis | بليز | C
+sorry, sori, sory | سوري | C
+asef, aasef, 2asef, assef, asif | آسف, اسف | C
+asfe, asfa, 2asfa, asfeh | آسفة, اسفة | C
+ana asef, ana aasef | أنا آسف | C
+ta7t amrak, ta7t 2amrak, ta7t amrek | تحت أمرك | C
+tfaddal, tefaddal, itfaddal, etfaddal, tfadal, tafadal | تفضل, اتفضل | C
+tfaddali, etfaddali, itfaddali, tfadali | تفضلي, اتفضلي | C
+nawwart, nawart, noort, nawwarti | نورت, نورتي | C
+mnawwar, mnawar, menawar | منور | C
+istanna, estanna, stanna, estana, istana | استنى, استنا | C
+khallas, 5allas, khallast, 5allast | خلص, خلصت | C
+ballash, ballesh, blesh, ballasht | بلش, بلشت | L
+kammel, kamel, kammil | كمل | C
+efta7, ifta7, fta7, efta7i | افتح | C
+sakker, sakkir, skkr | سكر | L
+khod, 5od, khud, 5ud, khudh | خد, خذ | C
+khodi, 5odi, khudi | خدي, خذي | C
+jeeb, jib, geeb, gib | جيب | C
+jibli, jeebli, gibli, geebli | جيبلي | C
+7ot, 7ott, 7u6 | حط | C
+eshtareet, ishtarait, eshtarait, ishtareet | اشتريت | C
+dafa3t, dfa3t, dafa3et | دفعت | C
+sa3edni, sa3idni, sa3dni, sa3ed | ساعدني, ساعد | C
+fakkart, fakart, fakkar | فكرت, فكر | C
+befakker, bfakker, bafakkar | بفكر | C
+azon, azonn, 2azon, a6on | أظن, اظن | C
+a3ta2ed, a3taqed, a3tqd | أعتقد, اعتقد | C
+shaklak, sheklak, shklak | شكلك | C
+shaklo, sheklo, shaklu | شكله | C
+la3eb, l3eb, li3ib | لعب | C
+la3be, lo3ba, lu3ba, le3be, lo3beh | لعبة | C
+kora, koura, kura, korah | كورة, كرة | C
+mubara, mobara, mobarah, mubaraat | مباراة | C
+match, mat4, mats | ماتش | C
+film, filim, felm | فيلم | C
+mosalsal, musalsal, msalsal | مسلسل | C
+ughniye, oghniya, ghenwe, 3'enwe, ughniyeh | أغنية, اغنية | C
+mosi2a, musi2a, museeqa, moosee2a | موسيقى | C
+lugha, lo3'a, lugha, lo8a, logha | لغة | C
+targame, tarjama, targama, tarjame, tarjameh | ترجمة | C
+ketaba, kitaba, ktabe, kitabeh | كتابة | C
+2raya, qiraa2a, 2iraye, eraya | قراءة | C
+laptop, labtop, lap | لابتوب | C
+kombyuter, computer, kombuter | كمبيوتر | C
+net, internet, intirnet | نت, انترنت | C
+wifi, wayfay, waifai | واي فاي | C
+tatbee2, tatbi2, ta6bee2, tatbeeq | تطبيق | C
+barnamaj, barnameg, brnamj | برنامج | C
+mawqe3, maw2e3, mawke3, mawqi3 | موقع | C
+malaf, malaff, mlaf | ملف | C
+rasm, rasem | رسم | C
+lon, lawn, loun | لون | C
+abyad, abya9, 2abyad, abyad | أبيض, ابيض | C
+aswad, 2aswad, eswed, iswid | أسود, اسود | C
+a7mar, ahmar, 2a7mar, a7mer | أحمر, احمر | C
+akhdar, a5dar, a5dar, a5der | أخضر, اخضر | C
+azra2, azraq, 2azra2, azrag | أزرق, ازرق | C
+asfar, asfr, 2asfar, a9far | أصفر, اصفر | C

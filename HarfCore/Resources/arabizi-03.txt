@@ -1,0 +1,118 @@
+# Harf Arabizi dictionary, part 3 (original, curated for Harf)
+# Format:  spellings | Arabic candidates (preferred first) | dialects
+#   dialects: C common, G Gulf, L Levantine, E Egyptian
+tamanya, tmanye, thamanya, tamania | تمانية, ثمانية | C
+tes3a, tis3a, tis3, tes3 | تسعة | C
+3ashra, 3ashara, 3ashre, 3ashara | عشرة | C
+miya, mia, meya, meyye, miyye, mi2a | مية, مئة | C
+alf, 2alf, alef | ألف, الف | C
+youm, yom, yoom, yawm | يوم | C
+saa3a, sa3a, sa3ah, sa3eh, se3a | ساعة | C
+de2i2a, da2i2a, de2ee2a, da2ee2a, d2i2a | دقيقة | C
+osbo3, usbu3, esbo3, 2osbo3, isbu3 | أسبوع, اسبوع | C
+shahr, shaher, sha7r | شهر | C
+sana, sane, saneh, sanah, seneh, sena | سنة | C
+wa2t, wa2et, wa'et, waqt, wagt, wa2ti | وقت | C
+zaman, zamaan, zamn | زمان | C
+ahl, 2ahl, ahel, ahli | أهل, اهلي | C
+mama, mamma, mom | ماما | C
+baba, papa, babba | بابا | C
+ummi, ommi, 2ommi, umi, omi, ommy | أمي, امي | C
+abuya, abooy, 2abooy, abouy, abuy | أبوي, ابوي | G
+akhoy, akhooy, 5ooy, a5ooy, 5ayy, akhuy, a5oy | أخوي, اخوي | G
+akhi, a5i, 2a5i, akhy, a5y, 5ayi | أخي, اخي, خيي | C
+okhti, ukhti, o5ti, u5ti, 2o5ti, ekhti, e5ti, okhty | أختي, اختي | C
+akh, a5, 2a5 | أخ, اخ | C
+okht, ukht, o5t, u5t, 2o5t, ekht, e5t | أخت, اخت | C
+walad, wled, wlad, welad | ولد, ولاد | C
+wlad, wled, awlad, 2awlad, welad | ولاد, أولاد | C
+bint, bent, bnt | بنت | C
+banat, bnat, banaat | بنات | C
+rajol, rajel, ragel, raagel, rajul, rajil, rejjal, rayyal, rayal | رجل, راجل, ريال | C
+ragel, raagel, ragil | راجل | E
+rayal, rayyal, rejjal | ريال, رجال | G
+zalame, zalameh, zalmeh, zalami, zelmeh | زلمة | L
+mara, mar2a, imra2a | مرة, امرأة | C
+sit, set | ست | C
+3amo, 3ammo, 3amou, 3amu | عمو | L E
+3amm, 3am, 3amm | عم | C
+khalo, 5alo, khalou, 5alu | خالو | L E
+teta, tita, tete | تيتة | L E
+sitti, setti, sity | ستي | L
+jaddi, geddi, jiddi, jedo, jeddo, giddo, jiddo | جدي, جدو | C
+sa7bi, sa7ebi, sahbi, sa7bee, sahebi, sa7by | صاحبي | C
+sa7bti, sa7bty, sahbti | صاحبتي | C
+sadi2, sadee2, sadiq, sadeeq, sadeek | صديق | C
+sadi2i, sadee2i, sadiqi, sadeeqi | صديقي | C
+shabab, shbab, shabaab, chabab | شباب | C
+ya shabab, yashabab | يا شباب | C
+jama3a, gama3a, jamaa3a, jma3a | جماعة | C
+ya, yaa | يا | C
+3omri, 3umri, 3mri, omri, 3omry | عمري | C
+ro7i, roo7i, rohi, ro7y | روحي | C
+2albi, albi, galbi, qalbi, 2alby, alby | قلبي | C
+2alb, alb, galb, qalb | قلب | C
+7ayati, 7ayaati, hayati, 7ayaty | حياتي | C
+7aya, 7ayat, hayat, 7ayah | حياة | C
+eldenya, eldonya, eddenye, eddonya, el donya, eldunya, eddinya, edenya, el dinya, eldinya | الدنيا | C
+dunya, donya, denya, dinya | دنيا | C
+shi, shee, eshi, ishi, 2ishi, 2eshi | شي, اشي | C
+7aja, 7aga, 7aje, 7ajeh, haga, 7agah, 7agga | حاجة | C
+moshkela, mushkila, mushkle, moshkla, mshkle, mushkileh | مشكلة | C
+mafi moshkela, mafi mushkila, mesh mushkila, msh moshkla | مافي مشكلة, مش مشكلة | C
+fekra, fikra, fekre, fikreh | فكرة | C
+so2al, su2al, soal, sual | سؤال | C
+jawab, gawab, jawaab | جواب | C
+masari, masaari, masare, masaree | مصاري | L
+flous, floos, fulus, folos, flus | فلوس | C
+beezat, bezat, baizat | بيزات | G
+masari | مصاري | L
+ghali, 8ali, 3'ali, ghaali, ghale | غالي | C
+rkhees, rakhees, rekhis, r5ees, ra5ees, rkhis | رخيص | C
+2ahwe, ahwa, 2ahwa, ahwe, gahwa, qahwa, 2ahweh, qahwe | قهوة | C
+shay, shai, shaay, chai, chay, shaai | شاي | C
+mayy, may, mai, mayye, mayyeh, mayya, mo2, mowiya, mayeh | مي, ماي, مية | C
+akel, akl | أكل, اكل | C
+fotor, fu6oor, fatoor, ftoor, fu6ur | فطور | C
+ghada, ghadaa, 3'ada, gheda | غدا, غداء | C
+3asha, 3ashaa, 3esha | عشا, عشاء | C
+mat3am, mata3m, mat3m | مطعم | C
+tele, tilifon, telephone, telefon, tilifoon | تلفون, تليفون | C
+mobile, mobail, mobayl | موبايل | C
+jawwal, jawal, jawaal | جوال | G
+ra2m, ra2am, raqam, rakam | رقم | C
+esm, ism, isim, esmi, ismi | اسم, اسمي | C
+esmak, ismak, ismk | اسمك | C
+shu esmak, shu ismak, sho esmak | شو اسمك | L
+el3arabi, al3arabi, el 3arabi, l3arabi | العربي | C
+3arabi, 3arabee, 3araby | عربي | C
+3arabiyya, el3arabiyya, al3arabiya, al3arabiyya | العربية, عربية | C
+ingilizi, englizi, inglizi, engleezi, inglizy | إنجليزي, انجليزي | C
+dubai, dubay, dbi, dubayy | دبي | G
+we7shteni, wa7ashtini, wa7ashteeni, wa7shteni, wa7ashtene | وحشتني | E
+eshta2telak, ishta2tillak, eshta2tlak, eshtaqtlak, ishta2tlak | اشتقتلك | L
+mushta2, mishta2, mshta2, moshta2, mushtaq | مشتاق | C
+mushta2a, mishta2a | مشتاقة | C
+ya rait, yareit, ya ret, yarit, yaret, yaraiet | ياريت | C
+msta7il, mosta7il, mustahil, musta7eel | مستحيل | C
+sa3b, sa3eb, s3b | صعب | C
+sahl, sahel, sa7l | سهل | C
+mohem, muhim, mhem, mohim, mhm | مهم | C
+daroori, darouri, 9aroori, dharoori | ضروري | C
+mazboot, mazbout, mazbut, mazboo6 | مزبوط, مضبوط | C
+ta2riban, ta2reeban, taqriban | تقريبا | C
+lel2asaf, lil2asaf, lel asaf, lilasaf, lelasaf | للأسف, للاسف | C
+belaks, bel3aks, bil3aks | بالعكس | C
+bel zabt, belzabt, bilzabt, bezzab6, bel6abt | بالظبط, بالضبط | C
+ya3tik el3afye, ya3teek el3afia, ya3tik al3afye, y3tik el3afye | يعطيك العافية | C
+3afye, 3afia, 3afieh, 3afya | عافية | C
+tesba7 3ala khair, tesba7 3ala 5er, tisba7 3ala kheir | تصبح على خير | C
+sabah el5eir, saba7 el5er, saba7 elkheir, saba7o, saba7 el kheir, sabah elkhair, saba7 alkhair, saba7 el5air | صباح الخير | C
+saba7, sabah, sabaah | صباح | C
+masa, masaa, masa2 | مساء, مسا | C
+masa el5eir, masa elkheir, masa2 el5eir, masa el kheir, masa alkhair, masa2 el5air | مساء الخير | C
+5eir, kheir, khair, 5er, 5air, kher | خير | C
+el5eir, elkheir, elkhair, el5er, al5air | الخير | C
+ma3 essalame, ma3a salama, ma3 elsalama, ma3salama, m3 elslama, ma3 essalameh, ma3 alsalama | مع السلامة | C
+bye, bai, baay, byee | باي | C
+yalla, yallah, yala, yla, yallaa | يلا | C

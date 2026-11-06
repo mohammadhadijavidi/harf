@@ -1,0 +1,153 @@
+# Harf Arabizi dictionary, part 2 (original, curated for Harf)
+# Format:  spellings | Arabic candidates (preferred first) | dialects
+#   dialects: C common, G Gulf, L Levantine, E Egyptian
+katheer, kathir, kaseer | كثير | C G
+shway, shwaye, shwayeh, shwaya, shwayya, shwai, shwy, shwiya, shwayy, shwei | شوي, شوية, شوية | C
+shwaya, shwayya, shwayyah | شوية | E
+shwe, shwi | شوي | L G
+zghir, zgheer, zghire, z8ir, sghir, sgheer | زغير, صغير | L
+sa3'ir, sagheer, saghir, so3'ayer | صغير | C
+kbir, kbeer, kebir, kabeer, kabir, kbire, kbeere | كبير, كبيرة | C
+kbira, kbeera, kbire, kbeere, kabira, kabeera | كبيرة | C
+jdid, jdeed, jadid, jadeed, gdid, gedeed, gdeed | جديد | C
+gamil, gameel, jamil, jameel, jameela, jamila | جميل, جميلة | C
+ra2e3, raa2e3, rae3, raa23 | رائع | C
+rou3a, ro3a, rawa3a, row3a, rawaa3 | روعة | C
+momtaz, mumtaz, mmtaz | ممتاز | C
+zein, zain, zen, zeen, zayn, zayen | زين | G
+zeina, zaina, zena, zayna | زينة | G
+mni7, mnee7, mneeh, mnih, mne7 | منيح | L
+mni7a, mnee7a, mni7a | منيحة | L
+kwayes, kowayes, kwayyes, kwayis, kuways, kways, kwys | كويس | E
+kwayesa, kwaysa, kwayysa | كويسة | E
+bkhair, bi5er, b5eir, bekhair, b5er, b5air, bkheir | بخير | C
+ta3ban, ta3baan, t3ban, taaban | تعبان | C
+ta3bana, ta3baneh, ta3bane | تعبانة | C
+mabsoot, mabsout, mabsut, mabsoo6 | مبسوط | C
+mabsoota, mabsouta, mabsooteh | مبسوطة | C
+za3lan, za3laan, z3lan | زعلان | C
+mashghool, mashghoul, mash3'ool, mashghul | مشغول | C
+fadi, faadi, fady, fa'di | فاضي | C
+jo3an, jo3an, ju3an, jou3an, gaw3an, ga3an | جوعان | C
+badi, baddi, bddi, bede, beddi, bidi, biddi | بدي | L
+badak, baddak, bdak, beddak, bidak | بدك | L
+badik, baddik, beddik | بدك | L
+bado, baddo, beddo, biddo | بده | L
+3ayez, 3ayz, 3aiz, 3awez, 3awz, aayez | عايز, عاوز | E
+3ayza, 3ayzah, 3awza | عايزة, عاوزة | E
+abi, abee, abgha, abgha, aby, abghi | أبي, ابي, أبغى | G
+abgha, abga, ab8a, abghaa | أبغى, ابغى | G
+abgha | أبغى | G
+ra7, ra7a, rah | رح, راح | L
+7a | ح | E
+7ad, 7add | حد | E
+ro7, roo7, rou7, rooh | روح | C
+aro7, aroo7, arou7, arooh, 2aro7, aroh | أروح, اروح | C
+bro7, broo7, baro7, baroo7 | بروح | L E
+7aro7, 7aroo7, harooh, haro7 | حروح | E
+raye7, rayi7, rayeh, rayi7 | رايح | C
+jay, jaye, gay, gaay, jai, jaii | جاي | C
+ta3al, ta3ala, t3al, ta3aal, taal | تعال | C
+ta3ali, ta3aly, t3ali | تعالي | C
+2ija, eja, ija, ajā, aja, 2eja | إجا, اجا | L
+ajeek, ajik, 2ajik | أجيك, اجيك | G L
+shoof, shuf, shouf, chouf, shof | شوف | C
+shoofi, shufi, shoufi, shofi | شوفي | C
+shefet, shift, shefit, shuft, shoft, shofet, sheft | شفت | C
+ashoof, ashuf, ashouf | أشوف, اشوف | C
+ba3ref, ba3rif, b3ref, ba3rf | بعرف | L E
+a3ref, a3rif, 2a3ref, a3rf | أعرف, اعرف | C
+3aref, 3arif, 3arf, 3aarif | عارف | C
+3arfa, 3arfeh, 3arfe | عارفة | C
+ma ba3ref, mba3ref, maba3ref, ma b3ref | ما بعرف | L
+madri, madry, mdri, ma adri, madree | مدري | G
+mesh 3aref, mish 3arif, msh 3arf | مش عارف | E
+fahem, faahem, fahim, fahm | فاهم | C
+fahma, fahmeh, fahme | فاهمة | C
+fhemt, fhimt, fehemt, fahamt | فهمت | C
+2olt, olt, 2ult, qult, gilt, galt | قلت | C
+2al, aal, qal, gal | قال | C
+2alet, alet, 2alat | قالت | C
+ba2ol, ba2ool, ba2oul, b2ol, ba2ul, bagool | بقول | L E
+a2ol, a2ool, a2oul, agool, aqool | أقول, اقول | C
+2ool, ool, 2oul, qool, gool | قول | C
+ba7ki, b7ki, ba7ky | بحكي | L
+a7ki, 2a7ki | أحكي, احكي | L
+7aki, 7ake, 7ky | حكي | L
+kalam, klam, kalaam, kalamak, kalaam | كلام | C
+kalemni, kallemni, klemni, kalimni | كلمني | C
+etasel, ittasel, itasel, ettasel | اتصل | C
+akl, akel, 2akl, akil | أكل, اكل | C
+akalt, kalt, 2akalt, akelt | أكلت, اكلت | C
+bakol, ba2kol, bakul | باكل | L E
+nam, naam | نام | C
+nemt, nimt, nmt | نمت | C
+sa7eet, sa7it, sa7ait, s7eet | صحيت | C
+2a3ed, a3ed, 2a3id, ga3ed, ga3id, qa3ed | قاعد | C
+2a3da, a3da, ga3da, 2a3deh | قاعدة | C
+beit, bet, bait, bayt, beet, bayet | بيت | C
+elbeit, elbet, elbait, el beit, el bet, el bait, ilbeit, lbeit, albait, albayt, elbayt | البيت | C
+dar, daar | دار | C
+madrase, madraseh, madrasa, madrasah, madrsa | مدرسة | C
+jam3a, jame3a, gam3a, game3a, jaam3a | جامعة | C
+shoghl, shughl, sho3'l, shogl, shughol, shoghol | شغل | C
+elshoghl, eshoghl, eshshoghl, elshughl, esh-shoghl | الشغل | C
+sheghel, shegel, shi3'il, shighl | شغل | L
+sayyara, sayara, siyara, sayyarah, sayyareh | سيارة | C
+3arabiya, 3arabeyya, 3arabeya, 3arabia | عربية | E
+tari2, taree2, 6ari2, 6aree2, tareeq, tari2, 6areeq | طريق | C
+share3, shari3, chare3, shara3 | شارع | C
+ma3ak, ma3k, m3ak, ma3aak | معك, معاك | C
+ma3ak, ma3aak | معاك | E
+ma3i, ma3ee, m3i, ma3aya, ma3aya | معي, معايا | C
+ma3aya, m3aya | معايا | E
+ma3ana, ma3na, m3na, ma3aana | معنا, معانا | C
+3andi, 3ndi, 3endi, 3ndy, 3andy, andi, endi | عندي | C
+3andak, 3ndak, 3endak, 3andk, 3endek | عندك | C
+3andik, 3endik, 3ndik | عندك | C
+3ando, 3endo, 3andoh, 3ndo, 3andu | عنده | L E
+3andha, 3ndha, 3anda | عندها | C
+3anna, 3ana, 3ndna, 3andna | عنا, عندنا | L C
+3al, 3a | عال, ع | L
+3ala, 3la, ala, 3alaa, 3ale | على | C
+3alek, 3aleik, 3alik, 3aleek, 3leik, alek, aleik | عليك | C
+3alaya, 3alayya, 3leya, 3alai, 3aliya | عليا, علي | C
+lal, lil, lel | لل | C
+elli, illi, eli, ili, alli, elle, yalli, illy, elly | اللي | C
+ella, illa, 2illa, 2ella | إلا, الا | C
+ila, ela, ilaa, 2ila, 2ela | إلى, الى, إلا | C
+la7ad, la7atta, l7ad | لحد, لحتى | E L
+7atta, 7ata, hatta, 7ta | حتى | C
+w, wa, we, wi, u | و | C
+aw, ow, 2aw | أو, او | C
+wala, wla, wela, walla, willa | ولا | C
+laken, lakin, lakn, laaken, lakin | لكن | C
+3ashan, 3shan | عشان | C
+zay, zai, zei, zayy, zey, zy | زي | E G
+zayak, zayyak, zayek | زيك | E
+mitl, metl, mithl, methl, mtl, mitel | متل, مثل | L
+methl, mithl, misl, mesl | مثل | C
+mathalan, masalan, mathln, mslan | مثلا | C
+masalan | مثلا | C
+fe3lan, fi3lan, f3lan, fe3ln | فعلا | C
+6ab3an, tab3an, tab3n, 6ab3n, t3ban | طبعا | C
+bejad, bgad, begad, bigad, bjad, bijad | بجد | E
+jiddan, geddan, jedan, jidan, geddn, jeddan | جدا | C
+awi, 2awi, 2awy, awy, 2away | أوي, قوي | E
+khales, 5ales, khaalis, 5ales | خالص | E
+mara, marra, mra, marrah | مرة | C
+marat, marrat, marrat | مرات | C
+kul, kol, koll, kull, kel | كل | C
+kolo, kullu, kello, kollo, kulloh | كله | C
+kolha, kullha, kellha | كلها | C
+kolna, kullna, kellna | كلنا | C
+kolhom, kullhum, kellon, kellhon | كلهم, كلهن | C
+nafs, nafes, nafsi | نفس, نفسي | C
+wa7ed, wa7d, wahed, wa7id, waa7ed, wahid | واحد | C
+wa7da, wa7de, wahda, wa7deh, wa7deh | واحدة, وحدة | C
+etnen, itnen, tnen, tneen, ithnain, ethnain, itnein, etnein, ithnein | اتنين, اثنين, تنين | C
+tlata, talata, thalatha, tlate, tlateh, thalath, talat | تلاتة, ثلاثة | C
+arba3a, arb3a, arba3, 2arba3a | أربعة, اربعة | C
+khamsa, 5amsa, khamse, 5amse, 5ams, khams | خمسة | C
+setta, sitta, sette, sitte | ستة | C
+sab3a, sab3, sab3e | سبعة | C

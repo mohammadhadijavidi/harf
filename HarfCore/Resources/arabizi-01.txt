@@ -1,0 +1,153 @@
+# Harf Arabizi dictionary, part 1 (original, curated for Harf)
+# Format:  spellings | Arabic candidates (preferred first) | dialects
+#   dialects: C common, G Gulf, L Levantine, E Egyptian
+ana, ena, ane, 2ana, 2na | أنا, انا | C
+enta, inta, ent, int | انت, إنتَ | C
+inti, enti, inte, ente | انتي, انتِ | C
+enty, inty, enteh | انتي | C
+howa, huwa, huwwa, hwa, hoa, houwa, hoowa | هو, هوا | C
+hiya, hiye, heya, heyya, hia, hya, hiyya | هي, هيا | C
+e7na, i7na, ehna, i7na, ana w enta | احنا, إحنا | L E G
+na7no, na7nu, nahnu | نحن | C
+entu, intu, ento, into, entoo | انتو, انتم | L E
+entom, intom, antum | انتم, أنتم | C
+homa, huma, homma | هما, هم | E
+hom, hum, humma | هم | C
+hene, hinne, hinna | هني, هن | L
+shu, shou, sho, chou, shoo | شو | L
+eish, aish, esh, eesh, eah | ايش, إيش | G
+wesh, wish, waish | وش | G
+eih, ehh, eeh, ayh | إيه, ايه | E
+leish, lesh, laysh, leesh, leh, leeh | ليش, ليه | L G E
+leh, lih, leeh | ليه | E
+keef, kif, kef, keif, kayf, kaif | كيف | L G C
+kifak, keefak, kifek, keefek, kefak | كيفك | L
+kifik, keefik, kefik | كيفك | L
+kifkon, kifkom, keefkom, keefkum | كيفكم | L
+izzayak, ezzayak, ezayak, izayak, ezayk, izzayyak | ازيك, إزيك | E
+ezayek, izzayik, ezzayek, ezayik | ازيك | E
+ezayoko, izzayoko, ezaykom | ازيكم | E
+shlonak, shlonk, chlonak, shlounak | شلونك | G
+shlonich, shlonech, chlonich | شلونج, شلونك | G
+shlonkom, shlonkum | شلونكم | G
+shakhbarak, sh5barak, shakhbark, sh5bark | شخبارك | G
+shakhbarich, sh5barich | شخبارج | G
+wein, wayn, ween, wen, wain, wayen | وين | L G
+fein, fen, fain, feen, fayn | فين | E
+min, men, mn, mena | من | C
+meen, mein, meeen | مين | L E
+emta, imta, emtaa, imta | امتى, إمتى | E L
+meta, mata, matta | متى | C G
+kam, kem, kaam | كم, كام | C
+kam, kaam, bkam, bikam | كام, بكام | E
+2adesh, adesh, adeish, 2addesh, addeish, 2adeish, adaish | قديش | L
+bi2adesh, b2adesh, badesh, b2adeish | بقديش | L
+leih, 3alashan, 3ashan, 3shan, 3ashaan, 3alshan | عشان, علشان | E G
+3alashan | علشان | E
+la2an, la2nno, la2ano, laan, li2an, lian | لأن, لان | C
+salam, salaam, slm, salam3alaykom | سلام | C
+assalamu, assalam, alsalam, el salam, essalam | السلام | C
+alaikum, alaykum, aleikum, 3alaykom, 3alaikum, 3aleikum, 3alekom, 3alikom, alikom | عليكم | C
+salamtak, salamtik | سلامتك | C
+marhaba, mar7aba, mar7ba, marhaban, mrhba, mar7aban | مرحبا | C
+mar7abten, marhabtein, mar7abtein | مرحبتين | L
+ahlan, ahla, ahleen, ahlain, ahlein, ahlen | أهلا, أهلين, اهلا | C
+ahlein, ahleen, ahlain | أهلين | L
+sahlan, sahla | سهلا | C
+hala, halla, hla, halaa | هلا | G L
+hayak, hayyak, 7ayak, 7ayyak, 7aiak | حياك | G
+shukran, shokran, shukrun, shokrn, 4ukran, shkran, shukraan, shokraan | شكرا | C
+mashkoor, mashkour, mashkur, mshkor | مشكور | C
+mashkoora, mashkoura, mashkura | مشكورة | C
+mamnoon, mamnun, mamnoun | ممنون | L E
+merci, mersi, mercii | مرسي, ميرسي | L E
+tislam, teslam, tslam, teslam | تسلم | C
+teslami, tislami, teslamy | تسلمي | C
+yislamo, yeslamo, yslamo, ysalmo, yeslamu, yislamu | يسلمو | L
+tekram, tikram, tekrami | تكرم, تكرمي | L
+3afwan, 3afwn, afwan, 3afwen, aafwan, 3afwann | عفوا | C
+el3afw, al3afw, el 3afw, l3afw | العفو | C
+ma3leish, ma3lesh, ma3lish, ma3leesh, m3lesh, ma3alesh, maleesh, ma3lish, maalesh, malesh | معلش, معليش | C
+3adi, 3aadi, 3ady, aadi, adi | عادي | C
+a7la, ahla | أحلى, احلى | C
+ya3ni, ya3nee, y3ni, yaani, yani, ya3neh | يعني | C
+tayeb, tayyeb, tayb, tyb, tayib, tab, tayyib, 6ayeb, 6ayb, 6yb, 6ab | طيب, طب | C
+tab, 6ab | طب | C E
+tamam, tmam, tammam, tamaam, tmm | تمام | C
+khalas, 5alas, khalass, 5alass, 5las, khlas, khalaas, 5alaas | خلاص | C
+mashi, mashy, maashi, mashee | ماشي | C E
+okay, okk, okei, okayy, ok | اوكي, أوكي | C
+bas, bass, bs | بس | C
+kaman, kamaan, kamen, kmn, kman | كمان | L E
+barda, bardo, bardu, bardoh, bar2o | برضه, برضو | E
+kamen, kaman, kamaan | كمان | L
+kaza, keza, kida, keda, kda, kede, kidda, kedda | كده, كذا | E G
+hek, heik, haik, hayk, heyk | هيك | L
+heke, hayke, hayki, heki | هيكي | L
+hon, houn, hoon | هون | L
+hnik, hunik, honik, hunnik | هنيك | L
+hena, hina, henna, hna | هنا | C E
+hinak, hunak, honak | هناك | C
+heda, hayda, haida, hayde, haide, hedi, heidi | هيدا, هيدي | L
+hayde, haydi, haide, hedi | هيدي | L
+hada, hatha, haza, haatha, hadha | هذا, هادا | C G
+hadi, hathi, hadhi, hazi, haadi | هذي, هادي | G
+haad, had, hd | هاد | L
+haay, hai, hay | هاي | L G
+da, dah, deh, dy | ده | E
+di, dee, dih | دي | E
+dol, dool, dowl | دول | E
+el7in, el7een, elhin, al7een, l7in, el7en, il7in | الحين | G
+halla, halla2, hala2, hala2, halla2, hl2, hlla2 | هلأ | L
+halla, halaq, hallaq, hal2 | هلق | L
+dilwa2ti, delwa2ty, dilwa2ty, delwaati, dlwa2ty, delwa2ti, dilwaqti | دلوقتي | E
+hassa, hessa, hesa | هسه | G
+ba3den, ba3dein, ba3dain, ba3dayn, ba3dan, b3den | بعدين | C
+lissa, lessa, lisa, lesa, lessah | لسه, لسا | E L
+lessa, lesse, lissa | لسا, لسه | L
+lessa | لسه | E
+ba3d, b3d, baad | بعد | C
+2abl, abl, qabl, gabl, 2bl | قبل | C
+bukra, bokra, bukrah, bokrah, bukraa, bkra | بكرة | C
+embare7, imbare7, mbare7, embareh, imbarih, embare7a | امبارح, مبارح | L E
+ams, emes, ames | أمس, امس | C
+elyom, elyoum, elyoom, alyom, alyoum, elyawm, alyawm, el yom, l yom, el youm, ilyom, eliom | اليوم | C
+dayman, daiman, dayman, da2iman, da2eman, deyman | دايما, دائما | C
+abadan, abadn, 2abadan | أبدا, ابدا | C
+akeed, akid, akeeed, 2akeed, akkid | أكيد, اكيد | C
+mumkin, momken, mumken, mmkn, momkin, mumkn | ممكن | C
+lazem, lazim, laazim, lazm, lzm | لازم | C
+mafrood, mafroud, el mafrood, elmafroud, elmafrood | مفروض, المفروض | C
+yemken, yimkin, yemkin, ymken, yimken | يمكن | C
+sa7, sa7ee7, sahih, sa7i7 | صح, صحيح | C
+ghalat, 3'alat, ghlat, 8alat | غلط | C
+ma3 | مع | C
+ma3a, ma3ah | مع | C
+mesh, mish, msh, mush, mosh, mch | مش | L E
+mu, mo, moo, mub, mob | مو, موب | G
+mafi, mafee, ma fi, mafy, mafeesh, mafish, mfeesh, mafesh | مافي, مفيش, مافيش | C
+mafeesh, mafish, mfish, mafesh | مفيش | E
+fi, fee, fe, fii | في | C
+fih, feeh, fiha | فيه | C
+ma, maa | ما | C
+la, laa | لا | C
+la2, la2a, laa2 | لأ | L E
+aywa, aiwa, aywah, aiwah, aiwa, aywaa, 2aywa | أيوه, ايوه | E
+ah, aah, ahh | آه, اه | C
+na3am, naam, n3m | نعم | C
+ee, eeh, ih, ey, ei | إي, اي | L
+ah, aha | اه | C
+mabrook, mabruk, mabrouk, mabrok, mbrook | مبروك | C
+habibi, 7abibi, 7bibi, habeebi, 7abeebi, hbibi, 7beebi, 7abibii, 7abibe | حبيبي | C
+habibti, 7abibti, 7abibty, habibty, 7bibti, 7abeebti, habeebti | حبيبتي | C
+7abibi, habibi | حبيبي | C
+7abib, habib, 7abeeb, habeeb | حبيب | C
+7ob, hob, 7ubb, 7obb | حب | C
+ba7ebak, ba7ibak, bahebak, b7bk, ba7bak, ba7ebbak | بحبك | E L
+ba7ebek, ba7ibik, bahebek, ba7bek | بحبك | E L
+b7ebak, b7ibbak, b7ebbak, bhebak | بحبك | L
+a7ebak, a7ibak, a7bk, ahebak, a7ebbak | أحبك, احبك | C
+o7ebak, o7ibak, o7bk, a7bich, a7ibich | أحبك, احبج | G
+7elw, 7elo, 7ilu, 7ilo, helw, 7lw, 7elou, hilw, 7ilw | حلو | C
+7elwa, 7ilwa, 7elwe, 7ilwe, helwa, helwe, 7lwa | حلوة | C
+ktir, kteer, kter, kthir, katheer, kitir, ktiir, ktyr | كتير, كثير | L
